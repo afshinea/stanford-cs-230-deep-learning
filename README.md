@@ -1,4 +1,7 @@
 # Deep Learning cheatsheets for Stanford's CS 230
+
+Available in [English](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/en) -  [Français](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fr)
+
 ## Goal
 This repository aims at summing up in the same place all the important notions that are covered in Stanford's CS 230 Deep Learning course, and include:
 - **Cheatsheets detailing everything** about convolutional neural networks, recurrent neural networks, as well as the tips and tricks to have in mind when training a deep learning model.

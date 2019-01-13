@@ -16,7 +16,7 @@ This repository aims at summing up in the same place all the important notions t
 <a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/images/super-vip-cheatsheet-deep-learning.png?" alt="Illustration" width="400px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; All the above gathered in one place
 
 ## Website
-This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-230.html), so that you can enjoy reading it from any device.
+This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-230), so that you can enjoy reading it from any device.
 
 ## Translation
 Would you like to see these cheatsheets in your native language? You can help us translating them on [this dedicated repo](https://github.com/shervinea/cheatsheet-translation)!

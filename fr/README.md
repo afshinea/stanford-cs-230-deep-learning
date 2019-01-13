@@ -15,7 +15,7 @@ Ce repo a pour but de résumer toutes les notions importantes du cours de Deep L
 <a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/fr/super-pense-bete-apprentissage-profond.pdf"><img src="https://stanford.edu/~shervine/images/super-vip-cheatsheet-deep-learning.png?" alt="Illustration" width="400px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tous les concepts rassemblés à un seul endroit
 
 ## Site
-Les fiches sont aussi disponibles sur un [site dedié](https://stanford.edu/~shervine/teaching/cs-230.html), de manière à ce que vous puissiez les parcourir à partir de n'importe quel appareil.
+Les fiches sont aussi disponibles sur un [site dedié](https://stanford.edu/~shervine/l/fr/teaching/cs-230), de manière à ce que vous puissiez les parcourir à partir de n'importe quel appareil.
 
 ## Auteurs
 [Afshine Amidi](https://twitter.com/afshinea) (Ecole Centrale Paris, MIT) et [Shervine Amidi](https://twitter.com/shervinea) (Ecole Centrale Paris, Stanford University)

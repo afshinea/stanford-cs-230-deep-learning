@@ -1,4 +1,6 @@
 # Pense-bêtes de Deep Learning pour CS 230 de Stanford
+Disponible en [English](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/en) -  [Français](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fr)
+
 ## But
 Ce repo a pour but de résumer toutes les notions importantes du cours de Deep Learning (CS 230) de Stanford, et inclut en particulier :
 - **Pense-bêtes pour chaque domaine de Deep Learning**, accompagné d'une fiche de petites astuces, utile lorsque vous construisez un modèle en pratique.

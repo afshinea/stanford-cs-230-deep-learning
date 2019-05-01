@@ -1,6 +1,6 @@
 # Deep Learning cheatsheets for Stanford's CS 230
 
-Available in [English](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/en) -  [فارسی](https://stanford.edu/~shervine/l/fa/teaching/cs-230/cheatsheet-convolutional-neural-networks) -  [Français](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fr) -  [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks) -  [Türkçe](https://stanford.edu/~shervine/l/tr/teaching/cs-230/cheatsheet-convolutional-neural-networks)
+Available in [English](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/en) -  [فارسی](https://stanford.edu/~shervine/l/fa/teaching/cs-230/cheatsheet-convolutional-neural-networks) -  [Français](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fr) -  [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks) -  [Türkçe](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/tr)
 
 ## Goal
 This repository aims at summing up in the same place all the important notions that are covered in Stanford's CS 230 Deep Learning course, and include:

@@ -5,7 +5,7 @@ Içinde mevcut [English](https://github.com/afshinea/stanford-cs-230-deep-learni
 ## Içindekiler
 #### El Kitabı VIP
 <a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/tr/cheatsheet-convolutional-neural-networks.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-convolutional-neural-nets.png?" alt="Illustration" width="280px"/></a><a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/tr/cheatsheet-recurrent-neural-networks.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-recurrent-neural-nets.png?" alt="Illustration" width="280px"/></a><a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/tr/cheatsheet-deep-learning-tips-tricks.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-deep-learning-tricks.png?" alt="Illustration" width="280px"/></a>
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Evrişimli Sinir Ağları &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tekrarlayan Yapay Sinir Ağları &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Püf noktaları ve ipuçları
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Evrişimli Sinir Ağları &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tekrarlayan Yapay Sinir Ağları &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Püf noktaları ve ipuçları
 
 #### El Kitabı Super VIP
 <a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/tr/super-cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/images/super-vip-cheatsheet-deep-learning.png?" alt="Illustration" width="400px"/></a>

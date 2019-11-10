@@ -12,12 +12,15 @@
 
 ## محتوا
 #### راهنمای کوتاه ویژه
-<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/fa/cheatsheet-convolutional-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/fa-001.png?" alt="Illustration" width="280px"/></a><a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/fa/cheatsheet-recurrent-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/fa-002.png?" alt="Illustration" width="280px"/></a><a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/fa/cheatsheet-deep-learning-tips-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/fa-003.png?" alt="Illustration" width="280px"/></a>
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; شبکه‌های عصبی پیچشی &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; شبکه‌های عصبی برگشتی   &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; نکات و ترفندها
+|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/fa/cheatsheet-convolutional-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/fa-001.png?" alt="Illustration" width="280px"/></a>|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/fa/cheatsheet-recurrent-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/fa-002.png?" alt="Illustration" width="280px"/></a>|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/fa/cheatsheet-deep-learning-tips-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/fa-003.png?" alt="Illustration" width="280px"/></a>|
+|:--:|:--:|:--:|
+|شبکه‌های عصبی پیچشی|شبکه‌های عصبی برگشتی|نکات و ترفندها
 
 
 #### راهنمای کوتاه بسیار ویژه
-<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/fa/super-cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/fa-004.png" alt="Illustration" width="400px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; همچی در یک جا
+|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/fa/super-cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/fa-004.png" alt="Illustration" width="400px"/></a>|
+|:--:|
+|همچی در یک جا
 
 
 ## نویسندگان اصلی

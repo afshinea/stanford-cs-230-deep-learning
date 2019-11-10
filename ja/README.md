@@ -4,11 +4,13 @@
 
 ## コンテンツ
 #### VIP チートシート
-<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/ja/cheatsheet-convolutional-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/ja-001.png?" alt="Illustration" width="280px"/></a><a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/ja/cheatsheet-recurrent-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/ja-002.png?" alt="Illustration" width="280px"/></a><a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/ja/cheatsheet-deep-learning-tips-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/ja-003.png?" alt="Illustration" width="280px"/></a>
-&nbsp; &nbsp; &nbsp;&nbsp;   畳み込みニューラルネットワーク  &nbsp; &nbsp; &nbsp;  リカレントニューラルネットワーク &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; アドバイスやコツ
+|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/ja/cheatsheet-convolutional-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/ja-001.png?" alt="Illustration" width="280px"/></a>|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/ja/cheatsheet-recurrent-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/ja-002.png?" alt="Illustration" width="280px"/></a>|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/ja/cheatsheet-deep-learning-tips-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/ja-003.png?" alt="Illustration" width="280px"/></a>|
+|:--:|:--:|:--:|
+|畳み込みニューラルネットワーク|リカレントニューラルネットワーク|アドバイスやコツ|
 
 #### Super VIP チートシート
-<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/ja/super-cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/ja-004.png?" alt="Illustration" width="400px"/></a>
+|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/ja/super-cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/ja-004.png?" alt="Illustration" width="400px"/></a>|
+|---|
 
 ## 原著者
 [アフシンアミディ](https://twitter.com/afshinea) (エコール・サントラル・パリ, マサチューセッツ工科大学) ・ [シェルビンアミディ](https://twitter.com/shervinea) (エコール・サントラル・パリ, スタンフォード大学)

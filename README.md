@@ -9,11 +9,14 @@ This repository aims at summing up in the same place all the important notions t
 
 ## Content
 #### VIP Cheatsheets
-<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/cheatsheet-convolutional-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-001.png?" alt="Illustration" width="280px"/></a><a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/cheatsheet-recurrent-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-002.png?" alt="Illustration" width="280px"/></a><a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/cheatsheet-deep-learning-tips-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-003.png?" alt="Illustration" width="280px"/></a>
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Convolutional Neural Networks &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Recurrent Neural Networks &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tips and tricks
+|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/cheatsheet-convolutional-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-001.png?" alt="Illustration" width="280px"/></a>|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/cheatsheet-recurrent-neural-networks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-002.png?" alt="Illustration" width="280px"/></a>|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/cheatsheet-deep-learning-tips-tricks.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-003.png?" alt="Illustration" width="280px"/></a>|
+|:--:|:--:|:--:|
+|Convolutional Neural Networks|Recurrent Neural Networks|Tips and tricks|
 
 #### Super VIP Cheatsheet
-<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-004.png?" alt="Illustration" width="400px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; All the above gathered in one place
+|<a href="https://github.com/afshinea/stanford-cs-230-deep-learning/blob/master/en/super-cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/teaching/cs-230/illustrations/cover/en-004.png?" alt="Illustration" width="400px"/></a>|
+|:--:|
+|All the above gathered in one place|
 
 ## Website
 This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-230), so that you can enjoy reading it from any device.

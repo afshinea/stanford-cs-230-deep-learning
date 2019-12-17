@@ -1,6 +1,6 @@
 # スタンフォードのCS 230のディープラーニングのチートシート
 
-[English](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/en) -  [فارسی](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fa) -  [Français](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fr) - [**日本語**](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/ja) - [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks) -  [Türkçe](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/tr) で利用可能になりました
+[English](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/en) -  [فارسی](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fa) -  [Français](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fr) - **日本語** - [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks) -  [Türkçe](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/tr) で利用可能になりました
 
 ## コンテンツ
 #### VIP チートシート

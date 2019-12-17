@@ -1,5 +1,5 @@
 # Pense-bêtes de Deep Learning pour CS 230 de Stanford
-Disponible en [English](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/en) -  [فارسی](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fa) -  [**Français**](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fr) - [日本語](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/ja) - [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks) -  [Türkçe](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/tr)
+Disponible en [English](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/en) -  [فارسی](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/fa) -  **Français** - [日本語](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/ja) - [한국어](https://stanford.edu/~shervine/l/ko/teaching/cs-230/cheatsheet-convolutional-neural-networks) -  [Türkçe](https://github.com/afshinea/stanford-cs-230-deep-learning/tree/master/tr)
 
 ## But
 Ce repo a pour but de résumer toutes les notions importantes du cours de Deep Learning (CS 230) de Stanford, et inclut en particulier :
